@@ -1,20 +1,27 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-
 # Magic 8 Ball 🎱
 
-## Our Goal
+A new Flutter application.
 
-The objective of this challenge is to solidify what you've learn't in the Dicee tutorial. This app will guide you through the steps required to build an 8 ball app and you will be applying what you have learnt about Stateless and Stateful Flutter widgets.
+## Getting Started
+* Install dependencies
+```sh
+    $ flutter pub get
+```
 
+* Start building  
+Use emulator or a physical device connected by USB
+```sh
+    $ flutter run
+```
 
-## What you will create
+* Create APK
+```sh
+    $ flutter build apk --split-per-abi
+```
 
-We’re going to make a magical 8 ball app, it will give you the answers to all the tricky questions in life. You can make the ball change at the press of a button. 
+### Install for Android
+- [64 bit apk](https://www.github.com/raj-vora/magic-8-ball-flutter/blob/master/apks/i-am-rich-arm64.apk?raw=true)
+- [32 bit apk](https://www.github.com/raj-vora/magic-8-ball-flutter/blob/master/apks/i-am-rich-armeabi.apk?raw=true)
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/8-ball-flutter-gif.gif)
-
-
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
+##Flutter Help
+For help getting started with Flutter, view [online documentation](https://flutter.dev/docs), which offers tutorials, samples, guidance on mobile development, and a full API reference.
